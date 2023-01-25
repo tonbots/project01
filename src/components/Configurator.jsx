@@ -39,6 +39,23 @@ const Configurator = () => {
         </div>
       </div>
       <div className="configurator-section">
+        <div className="configurator-section-title">Chair Legs</div>
+        <div className="configurator-section-values">
+          <div
+            className={`item ${legs === 1 ? "item-active" : ""}`}
+            onClick={() => setLegs(1)}
+          >
+            <div className="item-label">Modern</div>
+          </div>
+          <div
+            className={`item ${legs === 2 ? "item-active" : ""}`}
+            onClick={() => setLegs(2)}
+          >
+            <div className="item-label">Classic</div>
+          </div>
+        </div>
+      </div>
+      <div className="configurator-section">
         <div className="configurator-section-title">Chair Color</div>
         <div className="configurator-section-values">
           {chairColors.map((item, index) => (
@@ -76,23 +93,6 @@ const Configurator = () => {
               <div className="item-label">{item.name}</div>
             </div>
           ))}
-        </div>
-      </div>
-      <div className="configurator-section">
-        <div className="configurator-section-title">Chair Legs</div>
-        <div className="configurator-section-values">
-          <div
-            className={`item ${legs === 1 ? "item-active" : ""}`}
-            onClick={() => setLegs(1)}
-          >
-            <div className="item-label">Modern</div>
-          </div>
-          <div
-            className={`item ${legs === 2 ? "item-active" : ""}`}
-            onClick={() => setLegs(2)}
-          >
-            <div className="item-label">Classic</div>
-          </div>
         </div>
       </div>
     </div>
