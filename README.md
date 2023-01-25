@@ -2,6 +2,11 @@
 
 ![GIF](public/preview.gif)
 
+## `Built with`
+- Nodejs
+- React.js + Vite.js
+- React-three-fiber 
+
 ## `Step by step to run this project`
 
 ### `clone`
@@ -21,6 +26,6 @@ This project depends on some dependencies, so the command **npm install** takes 
 ### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+Open [http://localhost:5173/](http://localhost:5173/) to view it in the browser.
 
     npm run dev
