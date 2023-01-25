@@ -2,6 +2,8 @@
 
 ## `Preview Project 👇`
 
+![Screenshot](public/preview.png)
+
 ![GIF](public/preview.gif)
 
 ## `Built with`
