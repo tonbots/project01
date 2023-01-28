@@ -4,7 +4,7 @@
 
 ![Screenshot](public/preview.png)
 
-[![DEMO]](https://react-3d-product.vercel.app/)
+![DEMO](https://react-3d-product.vercel.app/)
 
 ## `Built with`
 - Nodejs
