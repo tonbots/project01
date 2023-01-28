@@ -4,7 +4,7 @@
 
 ![Screenshot](public/preview.png)
 
-![GIF](public/preview.gif)
+[![Facebook](https://img.shields.io/badge/Facebook-Tono%20Bin%20Saleh-blue.svg?style=flat)](https://react-3d-product.vercel.app/)
 
 ## `Built with`
 - Nodejs
