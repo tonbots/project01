@@ -2,10 +2,9 @@
 
 ## `Preview Project 👇`
 
-![Screenshot](public/preview.png)
+DEMO : https://react-3d-product.vercel.app/
 
-![button url="http://www.google.com"]
-![DEMO](https://react-3d-product.vercel.app/)
+![Screenshot](public/preview.png)
 
 ## `Built with`
 - Nodejs
