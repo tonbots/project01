@@ -4,7 +4,7 @@
 
 ![Screenshot](public/preview.png)
 
-[button url="http://www.google.com"]
+![button url="http://www.google.com"]
 ![DEMO](https://react-3d-product.vercel.app/)
 
 ## `Built with`
