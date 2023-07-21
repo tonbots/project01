@@ -2,8 +2,6 @@
 
 ## `Preview Project 👇`
 
-DEMO : https://react-3d-product.vercel.app/
-
 ![Screenshot](public/preview.png)
 
 ## `Built with`
