@@ -15,7 +15,7 @@
 
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/tonbots/React-3D-Product.git
+    git clone https://github.com/tondeveloperr/React-3D-Product.git
 
 You can clone by click on the GitHub green button "CODE" and download the .zip
 
